@@ -1,0 +1,15 @@
+.form-div form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    align-items: center;
+}
+form input{
+    width: 80%;
+    padding: 1em;
+    margin:0.5em 0
+}
+form button{
+    padding:1em;
+}
